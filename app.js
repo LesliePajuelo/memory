@@ -6,6 +6,8 @@ const port = 3000;
 
 const response = fs.readFileSync("./file.txt").toString(); // ~1MB
 
+app.use(express.static('public'));
+
 app.get("/noop", (req, res) => {
   res.send(0 + "\n" + response);
 });
