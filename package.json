@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node app.js",
+    "inspect": "node --inspect app.js"
+  },
+  "engines": { "node" : ">=16.17.0" },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
