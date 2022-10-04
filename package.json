@@ -3,8 +3,11 @@
     "start": "node app.js",
     "inspect": "node --inspect app.js"
   },
-  "engines": { "node" : ">=16.17.0" },
+  "engines": {
+    "node": ">=16.17.0"
+  },
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "newrelic": "^9.1.0"
   }
 }
