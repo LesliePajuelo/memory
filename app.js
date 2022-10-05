@@ -16,7 +16,7 @@ app.get("/sendfile", (req, res) => {
 });
 
 let slowLeak = 0;
-app.get("/slow-leak", (req, res) => {
+app.get("/nr-cuz", (req, res) => {
   slowLeak += 1;
   res.send(slowLeak + "\n" + response);
 });
@@ -31,7 +31,7 @@ app.get("/small-leak", (req, res) => {
 
 // The array storageBigLeak has an increasing length, containing long strings (of 1 MB each)
 const storageBigLeak = [];
-app.get("/big-leak", (req, res) => {
+app.get("/hold-tight", (req, res) => {
   storageBigLeak.push(fs.readFileSync("./file.txt").toString());
   const counterBigLink = storageBigLeak.length;
   res.send(counterBigLink + "\n" + response);
