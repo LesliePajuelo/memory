@@ -23,7 +23,7 @@ app.get("/nr-cuz", (req, res) => {
 
 // The array storageSmallLeak has an increasing length, containing references to a long string
 const storageSmallLeak = [];
-app.get("/small-leak", (req, res) => {
+app.get("/medium-hold", (req, res) => {
   storageSmallLeak.push(response);
   const counterSmallLink = storageSmallLeak.length;
   res.send(counterSmallLink + "\n" + response);
