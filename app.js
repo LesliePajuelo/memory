@@ -83,6 +83,10 @@ app.get('/blocking', (req, res) => {
 });
 
 
+app.get('/patch',(req, res)=>{
+  cpu.patchwork();
+  res.send(response);
+})
 
 app.listen(conf.CPU_LOAD_PORT, async () => {
   console.log('App listening',conf.CPU_LOAD_PORT );
