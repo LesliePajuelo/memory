@@ -2,7 +2,16 @@ require('newrelic');
 const express = require("express");
 const fs = require("fs");
 const app = express();
+const morgan = require('morgan');
 const cpu = require("./controller");
+// logger
+
+// create a write stream (in append mode)
+var accessLogStream = fs.createWriteStream(path.join(__dirname, 'access.log'), { flags: 'a' })
+
+// setup the logger
+app.use(morgan('combined', { stream: accessLogStream }))
+
 const conf = {
   CPU_LOAD_PORT: 3000,
   CPU_LOAD_DEFAULT_PERCENTAGE: 0,
