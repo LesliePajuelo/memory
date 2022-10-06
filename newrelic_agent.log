@@ -35,3 +35,173 @@
 {"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":4868,"time":"2022-10-05T19:50:05.285Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
 {"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":4868,"time":"2022-10-05T19:50:05.293Z","msg":"Agent state changed from connected to started."}
 {"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":4868,"time":"2022-10-05T19:50:06.294Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:09.983Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:10.022Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:10.036Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:10.039Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:10.039Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:13.385Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:13.386Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BdeKLKPFgbbGADegyx3vaexjPrNQAAgBAAAnIQEAADZmAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:13.386Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:13.387Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:13.393Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":13926,"time":"2022-10-06T10:50:14.395Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:57:59.906Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:57:59.945Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:57:59.959Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:57:59.961Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:57:59.961Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:58:02.279Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:58:02.280Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BbiwO3fnfE6OADegyx3vaexjPrUwAAgBAAAnIQEAADdTAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:58:02.280Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:58:02.282Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:58:02.288Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14163,"time":"2022-10-06T10:58:03.289Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:58:58.946Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:58:58.985Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:58:58.998Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:58:59.000Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:58:59.000Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:59:02.055Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:59:02.055Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BTKQ5GWmHhpAADegyx3vaexjPrVsAAgBAAAnIQEAADeRAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:59:02.055Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:59:02.057Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:59:02.062Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14225,"time":"2022-10-06T10:59:03.063Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:56.720Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:56.745Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:56.755Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:56.757Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:56.757Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:59.108Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:59.109Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID Bf_XagyXTOl4ADegyx3vaexjPrZcAAgBAAAnIQEAADiuAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:59.109Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:59.111Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:03:59.117Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14510,"time":"2022-10-06T11:04:00.117Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:46.608Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:46.634Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:46.644Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:46.646Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:46.646Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:48.956Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:48.957Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BXCLpEv6bx9MADegyx3vaexjPrbUAAgBAAAnIQEAADjrAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:48.957Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:48.958Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:48.964Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14571,"time":"2022-10-06T11:05:49.965Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:35.146Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:35.172Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:35.182Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:35.184Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:35.184Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:36.534Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:36.534Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BSQHpnmzRn93ADegyx3vaexjPrcQAAgBAAAnIQEAADkSAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:36.535Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:36.536Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:36.543Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14610,"time":"2022-10-06T11:06:37.544Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:50.896Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:50.922Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:50.932Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:50.934Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:50.934Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:53.183Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:53.183Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BS9zJoLmC5tjADegyx3vaexjPrcQAAgBAAAnIQEAADk2AgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:53.184Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:53.185Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:53.191Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14646,"time":"2022-10-06T11:06:54.193Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:12.175Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:12.201Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:12.211Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:12.212Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:12.212Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:14.826Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:14.826Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BfS9bHPysVXuADegyx3vaexjPrdMAAgBAAAnIQEAADlaAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:14.826Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:14.828Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:14.834Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14682,"time":"2022-10-06T11:07:15.835Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:50.019Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:50.058Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:50.072Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:50.074Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:50.074Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:52.468Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:52.468Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BTKTyfLWZsoWADegyx3vaexjPrdMAAgBAAAnIQEAADl_AgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:52.468Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:52.470Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:52.477Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14719,"time":"2022-10-06T11:07:53.479Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:12.312Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:12.351Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:12.365Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:12.367Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:12.367Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:14.559Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:14.560Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BVl2SreXGoM5ADegyx3vaexjPreIAAgBAAAnIQEAADmrAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:14.560Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:14.561Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:14.567Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14763,"time":"2022-10-06T11:08:15.568Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14792,"time":"2022-10-06T11:08:31.423Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14792,"time":"2022-10-06T11:08:31.449Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14792,"time":"2022-10-06T11:08:31.459Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14792,"time":"2022-10-06T11:08:31.460Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14792,"time":"2022-10-06T11:08:31.460Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:45.939Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:45.965Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:45.976Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:45.977Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:45.977Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:48.547Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:48.548Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BRUx-gix2-ErADegyx3vaexjPrfEAAgBAAAnIQEAADo8AgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:48.548Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:48.550Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:48.556Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14908,"time":"2022-10-06T11:09:49.557Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:32.720Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:32.747Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:32.757Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:32.758Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:32.758Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:34.308Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:34.309Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BdHCdG2thB61ADegyx3vaexjPrgAAAgBAAAnIQEAADpmAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:34.309Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:34.311Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:34.316Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14950,"time":"2022-10-06T11:10:35.318Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:36.819Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:36.844Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:36.854Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:36.856Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:36.856Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:39.341Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:39.342Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BUrCCeqg_GB5ADegyx3vaexjPrg8AAgBAAAnIQEAADqNAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:39.342Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:39.343Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:39.349Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":14989,"time":"2022-10-06T11:11:40.350Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:13:59.869Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:13:59.896Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:13:59.906Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:13:59.908Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:13:59.908Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:14:02.088Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:14:02.088Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BQZ7bKzA6z1pADegyx3vaexjPrjwAAgBAAAnIQEAADrnAgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:14:02.089Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:14:02.091Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:14:02.096Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15079,"time":"2022-10-06T11:14:03.097Z","msg":"Starting initial 1000ms harvest."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:13.342Z","msg":"Using New Relic for Node.js. Agent version: 9.1.0; Node version: v16.17.0."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:13.368Z","msg":"Using LegacyContextManager"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:13.378Z","msg":"Agent state changed from stopped to starting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:13.380Z","msg":"Starting New Relic for Node.js connection process."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:13.380Z","msg":"Agent state changed from starting to connecting."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:16.039Z","msg":"Agent state changed from connecting to connected."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:16.039Z","msg":"Connected to collector-005.newrelic.com:443 with agent run ID BfLt-GmGeEGvADegyx3vaexjPrjwAAgBAAAnIQEAADr-AgQd9JZMAwAFOS4xLjAACGdMZXNsaWVQABBwZXJmb3JtYW5jZV9kZW1v.","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:16.040Z","msg":"Reporting to: https://rpm.newrelic.com/accounts/3645643/applications/502568524","component":"collector_api"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:16.042Z","msg":"Valid event_harvest_config received. Updating harvest cycles. {\"report_period_ms\":5000,\"harvest_limits\":{\"error_event_data\":8,\"log_event_data\":833,\"analytic_event_data\":833,\"custom_event_data\":83}}"}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:16.049Z","msg":"Agent state changed from connected to started."}
+{"v":0,"level":30,"name":"newrelic","hostname":"gLeslieP","pid":15102,"time":"2022-10-06T11:14:17.050Z","msg":"Starting initial 1000ms harvest."}
