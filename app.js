@@ -48,24 +48,9 @@ app.get("/hold-tight", (req, res) => {
 
 
 app.get('/blocking', (req, res) => {
-  //git@github.com:jamesskinner/node-cpu-load-server.git
-  
-  let seconds = +req.query.seconds;
-  let percent = +req.query.percent;
-  if (Number.isNaN(percent)) {
-    res.status(400).send('Query param percent must be a number\n');
-    return;
-  }
-  if (req.params.seconds && Number.isNaN(seconds)) {
-    res.status(400).send('Query param seconds must be number\n');
-    return;
-  }
-  if (percent > 100 || percent < 1) {
-    res.status(400).send('Percentage needs to be...a percentage\n');
-    return;
-  }
-  cpu.blockCpu(seconds, percent, conf);
-  res.send(`Blocking ${percent}% for ${seconds} seconds\n`);
+  let value = req.query.value || 8
+  q=(M,K,S,L,A)=>{for(var s=(1<<M)-1,t="",i=~(S|L|A);i&s;R=q(M,K?K+","+a:a,(S|a)>>1,L|a,(A|a)<<1),t+=t&&R?"|"+R:R)i-=a=i&-i;return L==s?K:t}
+  res.send(`${value}, ${q(value, value, value, value, value)}, ${response}`)
 });
 
 
