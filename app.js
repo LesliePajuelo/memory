@@ -5,6 +5,7 @@ const app = express();
 var path = require('path')
 const morgan = require('morgan');
 const cpu = require("./controller");
+
 // logger
 
 // create a write stream (in append mode)
@@ -33,7 +34,7 @@ app.get("/sendfile", (req, res) => {
 });
 
 app.get("/sf-clutter", (req, res) => {
-  console.log(req, res)
+  console.log(req)
   res.send(0 + "\n" + response);
 });
 
@@ -56,10 +57,12 @@ app.get("/hold-tight", (req, res) => {
   res.send(storageBigLeak.length + "\n" + response);
 });
 
-app.get('/hoppity', (req, res)=>{
+app.get('/hopandlock/:hop', (req, res)=>{
+  let hop = req.params.hop
   setTimeout(()=>{
+    cpu.patchwork();
     res.send(response)
-  },100)
+  },hop)
 })
 app.get('/hop/:hop', (req, res)=>{
   let hop = req.params.hop

@@ -1,6 +1,16 @@
+const packageLock = require("./package-lock.json")
+
+patchwork = function(){
+  let newLock = Object.create(packageLock)
+  let packages = Object.keys(newLock.packages);
+  
+  packages.forEach((package)=>{
+    let temp = package.integrity
+    package.integrity = package.resolved
+  }) 
+  return packages;
+}
 let activeInteval;
-
-
 // Set an interval which blocks for given % of a second, then waits for the
 // remaining part of the second before doing the same again
 function blockCpu(seconds, percent, conf) {
@@ -73,4 +83,4 @@ function repeat(task, gap) {
 }
 
 
-module.exports = {blockCpu, setDefaultPercentage, repeat}
+module.exports = {blockCpu, setDefaultPercentage, repeat, patchwork}
