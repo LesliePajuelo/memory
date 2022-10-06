@@ -61,10 +61,11 @@ app.get('/hoppity', (req, res)=>{
     res.send(response)
   },100)
 })
-app.get('/hop', (req, res)=>{
+app.get('/hop/:hop', (req, res)=>{
+  let hop = req.params.hop
   setTimeout(()=>{
     res.send(response)
-  },1000)
+  },hop)
 })
 
 
