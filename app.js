@@ -2,6 +2,7 @@ require('newrelic');
 const express = require("express");
 const fs = require("fs");
 const app = express();
+var path = require('path')
 const morgan = require('morgan');
 const cpu = require("./controller");
 // logger
