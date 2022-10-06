@@ -62,14 +62,15 @@ app.get("/hold-tight", (req, res) => {
 });
 
 app.get('/hopandlock/:hop', (req, res)=>{
-  let hop = req.params.hop
+  let hop = req.params.hop || 1
+
   setTimeout(()=>{
     cpu.patchwork();
     res.send(response)
   },hop)
 })
 app.get('/hop/:hop', (req, res)=>{
-  let hop = req.params.hop
+  let hop = req.params.hop || 1
   setTimeout(()=>{
     res.send(hop + "\n" +response)
   },hop)
@@ -90,12 +91,4 @@ app.get('/patch',(req, res)=>{
 
 app.listen(conf.CPU_LOAD_PORT, async () => {
   console.log('App listening',conf.CPU_LOAD_PORT );
-  //git@github.com:jamesskinner/node-cpu-load-server.git
-  await cpu.setDefaultPercentage(conf);
-  cpu.blockCpu(0, conf.CPU_LOAD_DEFAULT_PERCENTAGE, conf);
-  cpu.repeat(async () => {
-    const change = await cpu.setDefaultPercentage(conf);
-    if (!change) return;
-    cpu.blockCpu(1, conf.CPU_LOAD_DEFAULT_PERCENTAGE, conf);
-  }, 5000);
 });
