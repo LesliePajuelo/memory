@@ -56,6 +56,17 @@ app.get("/hold-tight", (req, res) => {
   res.send(storageBigLeak.length + "\n" + response);
 });
 
+app.get('/hoppity', (req, res)=>{
+  setTimeout(()=>{
+    res.send(response)
+  },100)
+})
+app.get('/hop', (req, res)=>{
+  setTimeout(()=>{
+    res.send(response)
+  },1000)
+})
+
 
 app.get('/blocking', (req, res) => {
   let value = req.query.value || 8
