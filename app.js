@@ -1,4 +1,8 @@
-require('newrelic');
+if(!process.env.NODE_ENV){
+  console.log('nr')
+  require('newrelic');
+}
+
 const express = require("express");
 const fs = require("fs");
 const app = express();
